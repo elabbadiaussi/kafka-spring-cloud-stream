@@ -1,5 +1,5 @@
 package org.ghizlane.kafkaspringcloudstream.controllers;
-
+// 
 import org.ghizlane.kafkaspringcloudstream.events.PageEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.function.StreamBridge;
